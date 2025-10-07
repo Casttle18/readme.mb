@@ -1,0 +1,17 @@
+/prompt-notes
+│── manifest.json
+│── /assets
+│   ├── icon16.png
+│   ├── icon48.png
+│   └── icon128.png
+│── /popup
+│   ├── popup.html
+│   ├── popup.js
+│   └── popup.css
+│── /options
+│   ├── options.html
+│   ├── options.js
+│   └── options.css
+│── /background
+│   └── sw.js
+└── README.md
